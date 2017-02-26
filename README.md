@@ -1,4 +1,5 @@
-#jQuery fly icons
+#jQuery fly icons<br />
+Please see demo example
 
 ###Usage:
 
@@ -12,16 +13,14 @@ $('#target').flyIcons('letsFly',{
 
 ```
 
-#Please see demo example
-
-##Configuration options
+##Options
 
 Animation **duration** interval (sec)
 ```
 durationInt : [4,5]
 ```
 
-Animation **height** interval (px)
+Animation area **height** interval (px)
 ```
 animAreaHeightInt: [0,130]
 ```
