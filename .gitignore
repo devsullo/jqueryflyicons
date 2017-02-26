@@ -1,0 +1,11 @@
+*.zip
+*.log
+
+.DS_store
+.DS_store?
+._*
+.trashes
+
+node_modules/
+bower_components/
+.sass-cache

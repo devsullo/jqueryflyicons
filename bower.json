@@ -1,0 +1,29 @@
+{
+  "name": "jqueryflyicons",
+  "authors": [
+    "Lasha <devsullo@gmail.com>"
+  ],
+  "description": "A jquery plugin to fly (animate) icons",
+  "main": [
+    "dist/jqueryflyicons.min.css",
+    "dist/jqueryflyicons.min.js",
+  ],
+  "keywords": [
+    "jQuery",
+    "fly icons",
+    "animate icons"
+  ],
+  "license": "MIT",
+  "homepage": "jqueryflyicons.devsullo.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
