@@ -1,28 +1,37 @@
-jQuery fly icons
+#jQuery fly icons
 
-Usage:
+###Usage:
 
+```html
 <div id="taget"></div>
 
+```javascript
 $('#target').flyIcons('letsFly',{
 	'iconSrc':'yourIcon.png'
 });
 
-Please see demo example
+```
 
+#Please see demo example
 
-Options:
+##Configuration options
 
-Animation duration interval (sec)
+Animation **duration** interval (sec)
+```
 durationInt : [4,5]
+```
 
-
-Animation height interval (px)
+Animation **height** interval (px)
+```
 animAreaHeightInt: [0,130]
-
-Animation width (px)
+```
+Animation **width** (px)
 0 - auto adjust target width
+```
 animAreaWidth: 0
+```
 
-Animation translate Y interval (px)
+Animation **translate Y** interval (px)
+```
 translateYInt : [-40,70]
+```
