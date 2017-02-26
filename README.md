@@ -4,7 +4,7 @@ Please see demo example
 ###Usage:
 
 ```html
-<div id="taget"></div>
+<div id="target"></div>
 ```
 ```javascript
 $('#target').flyIcons('letsFly',{
