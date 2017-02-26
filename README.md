@@ -4,7 +4,7 @@
 
 ```html
 <div id="taget"></div>
-
+```
 ```javascript
 $('#target').flyIcons('letsFly',{
 	'iconSrc':'yourIcon.png'
@@ -26,6 +26,7 @@ Animation **height** interval (px)
 animAreaHeightInt: [0,130]
 ```
 Animation **width** (px)
+
 0 - auto adjust target width
 ```
 animAreaWidth: 0
