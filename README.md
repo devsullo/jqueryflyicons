@@ -1,5 +1,5 @@
 #jQuery fly icons<br />
-Please see demo example
+Please see [demo example](http://jqueryflyicons.devsullo.com/#example) 
 
 ###Usage:
 
