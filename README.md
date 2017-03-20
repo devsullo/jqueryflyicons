@@ -1,7 +1,7 @@
-#jQuery fly icons<br />
+# jQuery fly icons<br />
 Please see [demo example](http://jqueryflyicons.devsullo.com/#example) 
 
-###Usage:
+### Usage:
 
 ```html
 <div id="target"></div>
@@ -13,7 +13,7 @@ $('#target').flyIcons('letsFly',{
 
 ```
 
-##Options
+## Options
 
 Animation **duration** interval (sec)
 ```
